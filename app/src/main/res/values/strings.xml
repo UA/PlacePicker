@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PlacePicker</string>
+    <string name="place_picker_maps_api_key">YOUR API KEY</string>
+    <string name="place_picker">Place Picker</string>
+    <string name="get_current_place">Get Current Place</string>
+</resources>
